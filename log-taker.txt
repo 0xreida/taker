@@ -646,3 +646,12 @@
 3/11/2025 | 4:26:26 PM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
 3/11/2025 | 4:26:26 PM | INFO | Trying to activate mining on-chain for wallet: 0x376d11615279ec96aa2Dd7ae8Ee95716584C5Ab3 
 3/11/2025 | 4:26:36 PM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x1c7ca7fac57aca9618b557d394138b9ffcb5a7178d0f69f886d1bf8ddc3611ef 
+3/11/2025 | 8:21:01 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+3/11/2025 | 8:21:01 PM | INFO | Start process for wallet 0x376d11615279ec96aa2Dd7ae8Ee95716584C5Ab3 
+3/11/2025 | 8:21:02 PM | INFO | Trying To Login for wallet: 0x376d11615279ec96aa2Dd7ae8Ee95716584C5Ab3 
+3/11/2025 | 8:21:03 PM | INFO | Login successful... 
+3/11/2025 | 8:21:03 PM | INFO | Trying to check user info... 
+3/11/2025 | 8:21:03 PM | INFO | User ID: 103398881 | Twitter: @zreidaa | Total Points: 552000 
+3/11/2025 | 8:21:03 PM | INFO | Trying to check user miner status... 
+3/11/2025 | 8:21:04 PM | INFO | Last mining time: 3/11/2025, 4:26:33 PM
+3/11/2025 | 8:21:04 PM | WARN | Mining already started, next mining time is: 3/12/2025, 4:26:33 PM
