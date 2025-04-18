@@ -2745,3 +2745,16 @@
 4/17/2025 | 4:26:03 PM | INFO | Trying to check user miner status... 
 4/17/2025 | 4:26:10 PM | INFO | Last mining time: 4/17/2025, 12:40:33 PM
 4/17/2025 | 4:26:10 PM | WARN | Mining already started, next mining time is: 4/18/2025, 12:40:33 PM
+4/17/2025 | 8:21:38 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+4/17/2025 | 8:21:38 PM | INFO | Start process for wallet 0x376d11615279ec96aa2Dd7ae8Ee95716584C5Ab3 
+4/17/2025 | 8:21:39 PM | INFO | Trying To Login for wallet: 0x376d11615279ec96aa2Dd7ae8Ee95716584C5Ab3 
+4/17/2025 | 8:21:39 PM | INFO | Login successful... 
+4/17/2025 | 8:21:39 PM | INFO | Trying to check user info... 
+4/17/2025 | 8:21:40 PM | INFO | User ID: 103398881 | Twitter: @zreidaa | Total Points: 1344000 
+4/17/2025 | 8:21:40 PM | INFO | Trying to check user miner status... 
+4/17/2025 | 8:21:43 PM | INFO | Last mining time: 4/16/2025, 8:28:06 AM
+4/17/2025 | 8:21:43 PM | INFO | Trying to start Mining for wallet: 0x376d11615279ec96aa2Dd7ae8Ee95716584C5Ab3 
+4/17/2025 | 8:21:46 PM | INFO | Mine response: {"code":500,"msg":"The contract is not activated. Please activate the contract first","data":null}
+4/17/2025 | 8:21:46 PM | INFO | Trying to activate mining on-chain for wallet: 0x376d11615279ec96aa2Dd7ae8Ee95716584C5Ab3 
+4/17/2025 | 8:21:46 PM | ERROR | Activate Mining Error: {"errno":-111,"code":"ECONNREFUSED","syscall":"connect","address":"101.47.19.33","port":443}
+4/17/2025 | 8:21:46 PM | ERROR | Wallet already start mine today or wallet dont have taker balance 
